@@ -1,0 +1,12 @@
+---
+description: Friday improvement review, handover check, and the recap to Daniel. Read this when running the Friday 4pm review, checking a handover, or updating the weekly improvement loop.
+alwaysApply: false
+---
+
+Follow `docs/martin-friday-review.md` in full.
+
+Read the shared log in #martin-chatgpt (thread started 10 November 2026, 7:55pm UK) before scoring. Write new trial results there.
+
+The saved loop is: cross-check the actual output, record each failure once with cause and a catching test, trial one process change a week, keep refine or retire from evidence, then send Daniel one combined recap. The pre-handover check is the only change on trial. A saved rule is not the same as a rule shown to prevent a repeat. A quiet week is limited activity, not a perfect week.
+
+SiteBook development, SiteBook chasers, AI connections, and Chats chasers stay parked. Nothing goes live without Daniel's own yes.
